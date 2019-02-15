@@ -1,8 +1,6 @@
 # Using-Javascript-in-iOS
 A sample project for accessing javascript functions in a swift project using JavascriptCore framework. 
 
-A sample project for accessing javascript functions in a swift project using JavascriptCore framework.
-
 This project uses JavascriptCore iOS Framework. The JavaScriptCore framework provides access to WebKit’s JavaScript engine.
 
 JSVirtualMachine 
